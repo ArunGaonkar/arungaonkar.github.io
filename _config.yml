@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Arun Gaonkar" # Your sidebar name
   avatar           : "clear_headshot.jpg" #profile.png
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "Research Assistant at NC State University" #"Your biography for the left-hand sidebar"
   location         : "Raleigh, NC, USA" #Location
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "agaonka@ncsu.edu"
+  email            : "arun.rg37@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "gr_arun_37" #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

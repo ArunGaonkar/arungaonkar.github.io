@@ -8,47 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-ನಮಸ್ಕಾರ, Hello
+Hello,
 ---
 
-<br/>
+<hr/>
 
-I am a computer science graduate with a Master's degree from North Carolina State University. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact.
+I am a *Computer Science* graduate with a **Master's degree** from North Carolina State University. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact.
 
-I am currently working as a Research Assistant at North Carolina State University, where I am leading data collection procedures and improving the performance of an AI agent for solving algebra equations. I have hands-on experience in causal relations analysis and have developed a toolkit for the same during my internship at LexisNexis Risk Solutions. I have honed my skills in time management, critical thinking, and communication, which I believe would make me a great addition to any team.
+I am currently working as a **Research Assistant** at **North Carolina State University**, where I am leading data collection procedures and improving the performance of an AI agent for solving algebra equations. I have hands-on experience in causal relations analysis and have developed a toolkit for the same during my internship at LexisNexis Risk Solutions. 
+
+My bachelor's degree from *PES University, Bangalore, India*, has given me a strong foundation in computer science and mathematics. During this study I was intrigued by the replication of human brain with the neural network and then later I choose machine learning became my area of interest. I have worked on various projects in the field of machine learning.
 
 I would like to bring real-world change by leveraging data, ML, and NLP to build and develop software applications.
 
 - <a href="https://drive.google.com/file/d/1PZOysR4Y4lNuQd4aqjFoxxDmwNw6Bepr/view?usp=sharing">Resume</a>
+- I usually respond faster to emails than LinkedIn or Instagram messages. But feel free to forward memes or connect. :)
 
-<br/>
+
+<hr/>
 
 Relevant projects
 ---
 > **1. Context-based Sarcasm Detection**  
+> **Arun Gaonkar**, Manasi Ghosalkar  
 > Learnt to use transformer-based RoBERTa and Bi-LSTM for text processing on a news dataset. ([PDF](https://github.com/ArunGaonkar/Sarcasm-Detection/blob/main/agaonka_termPaper.pdf), [CODE](https://github.com/ArunGaonkar/Sarcasm-Detection), [PPT](https://github.com/ArunGaonkar/Sarcasm-Detection/blob/main/NLP%20Demo.pdf))
 
 > **2. Example Bot – Personalized Code Assistant**  
-> Mohan Kanaka, Arun Gaonkar, Vinay Vasudev, Adarsh Narayanaswamy  
+> Mohan Kanaka, **Arun Gaonkar**, Vinay Vasudev, Adarsh Narayanaswamy  
 > A chatbot built by applying software principles using MongoDB, Express, NodeJS (MEN) stack, and Javascript. ([Video](https://drive.google.com/file/d/1LcEMi9sS8UlYxKTcIx9UkuCYGLf8VS0B/view?usp=sharing))  
 
 > **3. Wildfire Data Analysis and Cause Prediction**  
-> Ganesh Thanu, Arun Gaonkar, Nikhil Patil  
+> Ganesh Thanu, **Arun Gaonkar**, Nikhil Patil  
 > Implemented ETL by scripting with pandas and numpy, learned data visualization techniques with matplotlib and seaborn. ([PDF](https://github.com/ArunGaonkar/Wildfire-cause-prediction/blob/main/P24_WildFireCausePrediction.pdf), [CODE](https://github.com/ArunGaonkar/Wildfire-cause-prediction/blob/main/ALDA_Project.ipynb), [PPT](https://github.com/ArunGaonkar/Wildfire-cause-prediction/blob/main/PID24_Wildfire_Cause_Prediction_slides.pdf))  
 
-> **4. Brain Tumor Image Classification**  
-> Learnt image classification and segmentation techniques by applying CNN, and R-CNN. ([Video](https://github.com/ArunGaonkar/Brain-Tumor-Detection/blob/main/videos/projF3_final_video.mp4), [PDF](https://github.com/ArunGaonkar/Brain-Tumor-Detection/blob/main/ProjectF4_Team27_Report.pdf))
+<!-- > **4. Brain Tumor Image Classification**  
+> Learnt image classification and segmentation techniques by applying CNN, and R-CNN. ([Video](https://github.com/ArunGaonkar/Brain-Tumor-Detection/blob/main/videos/projF3_final_video.mp4), [PDF](https://github.com/ArunGaonkar/Brain-Tumor-Detection/blob/main/ProjectF4_Team27_Report.pdf)) -->
 
 
-<br/>
+<hr/>
 
 Relevant Experience
 --- 
 
 > **1. Research Assistant, North Carolina State University**  
-> January 2023 - Present  
+> * January 2023 - Present  
 > Web scraping to build a dataset to identify commonly expressed prejudice and stereotypes in social media posts. Building an NLP-based solution to identify and classify these posts.  
-> September 2022 - December 2022  
+> * September 2022 - December 2022  
 > Collected data for an AI agent for solving algebra equations by conducting 15+ interactive sessions. 
 
 > **2. HPCC Systems, LexisNexis Risk Solutions**  
@@ -61,7 +66,7 @@ Relevant coursework
 ---
 
 > **1. Natural Language Processing (CSC791)**  
-> Learnt and applied concepts of lexicons, grammar (like CCG and CFG, Jurafsky's grammar), and entities. Explored different types of embeddings and parsing techniques. Processed computationally ill-suited and inefficient, high-dimensional, unstructured text data by implementing TF-IDF, LSTM, XLNet, RoBERTa, and SVM.
+> Learnt and applied concepts of lexicons, grammar (like CCG and CFG, Jurafsky's grammar), and entities. Explored different types of embeddings and parsing techniques. Processed computationally ill-suited and inefficient, high-dimensional, unstructured text data by implementing TF-IDF, LSTM, XLNet, RoBERTa, and SVM.  
 As part of the course, I have implemented sarcasm detection, first by creating a dataset, then by using embedding and tokenization for pre-processing. Later used Bi-LSTM and RoBERTa for classification.([CODE](https://github.com/ArunGaonkar/Sarcasm-Detection))
 
 > **2. Software Engineering (CSC510)**  
@@ -73,19 +78,29 @@ As part of the course, I have implemented sarcasm detection, first by creating a
 > **4. Automated Learning and Data Analysis (CSC522)**  
 > Implemented some basic ML algorithms such as Linear and Logistic regression, RFC, and SVM. Understood the importance of data analysis and data visualization. As part of the course, completed a project on wildfire-cause prediction. ([CODE](https://github.com/ArunGaonkar/Wildfire-cause-prediction))
 
-<br/>
+<hr/>
 
 Organizations
 ---
-
+<!-- 
 <p float="left">
 
-  <img align="center" src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-red-min.png" width="100"/>
-  <!-- <img align="center" src="https://static3.mysiteserver.net/Images/PortCityJava/site/template/images/logo-lg.png" width="100"/> -->
-  <img align="center" src="https://hpccsystems.com/wp-content/uploads/2022/10/HPCC_Logo_0.png" width="100"/>
+  <img align="center" src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-red-min.png" width="100"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <img align="center" src="https://static3.mysiteserver.net/Images/PortCityJava/site/template/images/logo-lg.png" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <!-- <img align="center" src="https://hpccsystems.com/wp-content/uploads/2022/10/HPCC_Logo_0.png" width="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://risk.lexisnexis.com/-/media/images/lnrs/logos/logo_lexis.png" width="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://ieee-ras-pesu.github.io/website/assets/img/pesu-logo.png" width="100"/>
-</p>
+</p> -->
+
+<img align="center" src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-red-min.png" width="100">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Aug 2021 - Present
+
+<img align="center" src="https://hpccsystems.com/wp-content/uploads/2022/10/HPCC_Logo_0.png" width="100"/> 
+<img align="center" src="https://risk.lexisnexis.com/-/media/images/lnrs/logos/logo_lexis.png" width="100"/>&emsp;&emsp;&emsp;&nbsp;May 2022 - Aug 2022
+
+<img align="center" src="https://ieee-ras-pesu.github.io/website/assets/img/pesu-logo.png" width="100"/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;Aug 2016 - Aug 2020
 
 <br/>
 ---
