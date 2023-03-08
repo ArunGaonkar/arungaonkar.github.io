@@ -6,13 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - 
 ---
-
 Hello,
 ---
-
-<!-- <hr/> -->
 
 I am a *Computer Science* graduate with a **Master's degree** from **North Carolina State University**. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact.
 
@@ -28,45 +24,10 @@ My bachelor's degree from *PES University, Bangalore, India*, has given me a str
 
 <!-- I would like to bring real-world change by leveraging data, ML, and NLP to build and develop software applications. -->
 
-- <a href="https://arungaonkar.github.io/files/GaonkarArun_Resume.pdf">Resume</a>
-- I respond faster to emails than LinkedIn messages. But feel free to forward memes/articles or connect. :)
-
+- You can find my <a href="https://arungaonkar.github.io/files/GaonkarArun_Resume.pdf" target="_blank">Resume</a> here.
+- PS: I respond faster to emails than other messages.
 
 <hr/>
-<!-- Relevant projects
----
-> **1. Context-based Sarcasm Detection**  
-> **Arun Gaonkar**, Manasi Ghosalkar  
-> Learnt to use transformer-based RoBERTa and Bi-LSTM for text processing on a news dataset. ([PDF](https://github.com/ArunGaonkar/Sarcasm-Detection/blob/main/agaonka_termPaper.pdf), [CODE](https://github.com/ArunGaonkar/Sarcasm-Detection), [PPT](https://github.com/ArunGaonkar/Sarcasm-Detection/blob/main/NLP%20Demo.pdf)) -->
-
-<!-- > **2. Example Bot – Personalized Code Assistant**  
-> **Arun Gaonkar**, Mohan Kanaka, Vinay Vasudev, Adarsh Narayanaswamy  
-> A chatbot built by applying software principles using MongoDB, Express, NodeJS (MEN) stack, and Javascript. ([Video](https://drive.google.com/file/d/1LcEMi9sS8UlYxKTcIx9UkuCYGLf8VS0B/view?usp=sharing))   -->
-
-<!-- > **3. Wildfire Data Analysis and Cause Prediction**  
-> **Arun Gaonkar**, Ganesh Thanu, Nikhil Patil  
-> Implemented ETL by scripting with pandas and numpy, learned data visualization techniques with matplotlib and seaborn. ([PDF](https://github.com/ArunGaonkar/Wildfire-cause-prediction/blob/main/P24_WildFireCausePrediction.pdf), [CODE](https://github.com/ArunGaonkar/Wildfire-cause-prediction/blob/main/ALDA_Project.ipynb), [PPT](https://github.com/ArunGaonkar/Wildfire-cause-prediction/blob/main/PID24_Wildfire_Cause_Prediction_slides.pdf))  
- -->
-<!-- > **4. Brain Tumor Image Classification**  
-> Learnt image classification and segmentation techniques by applying CNN, and R-CNN. ([Video](https://github.com/ArunGaonkar/Brain-Tumor-Detection/blob/main/videos/projF3_final_video.mp4), [PDF](https://github.com/ArunGaonkar/Brain-Tumor-Detection/blob/main/ProjectF4_Team27_Report.pdf)) -->
-
-
-<!-- <hr/> -->
-
-<!-- Relevant Experience
---- 
-
-> **1. Research Assistant, North Carolina State University**  
-> * January 2023 - Present  
-> Web scraping to build a dataset to identify commonly expressed prejudice and stereotypes in social media posts. Building an NLP-based solution to identify and classify these posts.  
-> * September 2022 - December 2022  
-> Collected data for an AI agent for solving algebra equations by conducting 15+ interactive sessions. 
-
-> **2. HPCC Systems, LexisNexis Risk Solutions**  
-> <a href="https://arungaonkar.github.io/HPCC-Causality-Blog/">Internship Blog</a>, May 2022 - August 2022  
-> In the Causality Project at HPCC systems, I have applied the causality toolkit to real-world datasets to discover, infer, analyze, and verify causal relations between variables. With this, I have also tested the causal toolkit developed by HPCC Systems.
-
-<br/> -->
 
 <!-- Relevant coursework
 ---
@@ -101,12 +62,4 @@ Organizations
   <img align="center" src="https://ieee-ras-pesu.github.io/website/assets/img/pesu-logo.png" width="100"/>
 </p> 
 
-<!-- <img align="center" src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-red-min.png" width="100"> Aug 2021 - Present
-
-<img align="center" src="https://hpccsystems.com/wp-content/uploads/2022/10/HPCC_Logo_0.png" width="100"/> 
-<img align="center" src="https://risk.lexisnexis.com/-/media/images/lnrs/logos/logo_lexis.png" width="100"/> May 2022 - Aug 2022
-
-<img align="center" src="https://ieee-ras-pesu.github.io/website/assets/img/pesu-logo.png" width="100"/> Aug 2016 - Aug 2020
-
 <br/>
----
