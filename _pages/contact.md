@@ -11,4 +11,4 @@ Contact information is below, including email and various web services.  This i
 * LinkedIn: <a href="https://www.linkedin.com/in/arun-gaonkar/" target="_blank">arun-gaonkar</a>
 * GitHub: <a href="https://github.com/arungaonkar/" target="_blank">ArunGaonkar</a>
 * LeetCode: <a href="https://leetcode.com/arungaonkar/" target="_blank">arungaonkar</a>
-* Instagram: <a href="https://www.instagram.com/gr_arun_37/" target="_blank">gr_arun_37</a> 
+* Instagram: <a href="https://www.instagram.com/gr_arun_37/" target="_blank">gr_arun_37</a>
