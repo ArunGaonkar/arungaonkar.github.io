@@ -1,16 +1,16 @@
 ---
 permalink: /
-# title: ""
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello,
----
 
-I am a *Computer Science* graduate with a **Master's degree** from **North Carolina State University**. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact.
+Hello,
+
+I am Arun, a *Computer Science* graduate with a **Master's degree** from **North Carolina State University**. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact.
 
 - I like Machine Learning.
 - I like Natural Language Processing.
