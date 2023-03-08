@@ -6,23 +6,30 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - 
 ---
 
 Hello,
 ---
 
-<hr/>
+<!-- <hr/> -->
 
-I am a *Computer Science* graduate with a **Master's degree** from North Carolina State University. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact.
+I am a *Computer Science* graduate with a **Master's degree** from **North Carolina State University**. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact.
 
-I am currently working as a **Research Assistant** at **North Carolina State University**, where I am leading data collection procedures and improving the performance of an AI agent for solving algebra equations. I have hands-on experience in causal relations analysis and have developed a toolkit for the same during my internship at LexisNexis Risk Solutions. 
+- I like Machine Learning.
+- I like Natural Language Processing.
+- I like Software Engineering.
+
+I would love to combine all three of these to solve real-world problems and building applications.
+
+My interests lies in the application of ML & NLP techniques. I am currently working as a **Research Assistant** at **North Carolina State University** and researching on applying NLP techniques to find the existing prejudices in Social Media. In another project, I am leading the data collection procedures and improving the performance of an AI agent for solving algebra equations. I have hands-on experience in causal relations analysis and have developed a toolkit for the same during my internship at LexisNexis Risk Solutions.
 
 My bachelor's degree from *PES University, Bangalore, India*, has given me a strong foundation in computer science and mathematics. During this study I was intrigued by the replication of human brain with the neural network and then later I choose machine learning became my area of interest. I have worked on various projects in the field of machine learning.
 
-I would like to bring real-world change by leveraging data, ML, and NLP to build and develop software applications.
+<!-- I would like to bring real-world change by leveraging data, ML, and NLP to build and develop software applications. -->
 
 - <a href="https://arungaonkar.github.io/files/GaonkarArun_Resume.pdf">Resume</a>
-- I usually respond faster to emails than LinkedIn or Instagram messages. But feel free to forward memes or connect. :)
+- I respond faster to emails than LinkedIn messages. But feel free to forward memes/articles or connect. :)
 
 
 <hr/>
@@ -79,27 +86,27 @@ As part of the course, I have implemented sarcasm detection, first by creating a
 
 <!-- <hr/> -->
 
-<!-- Organizations -->
-<!-- ---
+Organizations
+---
 
 <p float="left">
 
   <img align="center" src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-red-min.png" width="100"/> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <img align="center" src="https://static3.mysiteserver.net/Images/PortCityJava/site/template/images/logo-lg.png" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <!-- <img align="center" src="https://hpccsystems.com/wp-content/uploads/2022/10/HPCC_Logo_0.png" width="100"/>
+  <img align="center" src="https://hpccsystems.com/wp-content/uploads/2022/10/HPCC_Logo_0.png" width="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://risk.lexisnexis.com/-/media/images/lnrs/logos/logo_lexis.png" width="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://ieee-ras-pesu.github.io/website/assets/img/pesu-logo.png" width="100"/>
-</p> --> 
+</p> 
 
 <!-- <img align="center" src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-red-min.png" width="100"> Aug 2021 - Present
 
 <img align="center" src="https://hpccsystems.com/wp-content/uploads/2022/10/HPCC_Logo_0.png" width="100"/> 
 <img align="center" src="https://risk.lexisnexis.com/-/media/images/lnrs/logos/logo_lexis.png" width="100"/> May 2022 - Aug 2022
 
-<img align="center" src="https://ieee-ras-pesu.github.io/website/assets/img/pesu-logo.png" width="100"/> Aug 2016 - Aug 2020 -->
+<img align="center" src="https://ieee-ras-pesu.github.io/website/assets/img/pesu-logo.png" width="100"/> Aug 2016 - Aug 2020
 
 <br/>
 ---
