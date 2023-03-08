@@ -8,7 +8,7 @@ author_profile: true
 Contact information is below, including email and various web services.  This is to make it easy for people to find me.
 
 * E-mail: <a href="mailto:arun.rg37@gmail.com">arun.rg37@gmail.com</a>
-* LinkedIn: [arun-r-g](https://www.linkedin.com/in/arun-gaonkar/)
-* GitHub: [ArunGaonkar](https://github.com/arungaonkar/)
-* LeetCode: [arungaonkar](https://leetcode.com/arungaonkar/)
-* Instagram: [arungaonkar](https://www.instagram.com/gr_arun_37/)
+* LinkedIn: <a href="https://www.linkedin.com/in/arun-gaonkar/" target="_blank">arun-gaonkar</a>
+* GitHub: <a href="https://github.com/arungaonkar/" target="_blank">ArunGaonkar</a>
+* LeetCode: <a href="https://leetcode.com/arungaonkar/" target="_blank">arungaonkar</a>
+* Instagram: <a href="https://www.instagram.com/gr_arun_37/" target="_blank">gr_arun_37</a> 
