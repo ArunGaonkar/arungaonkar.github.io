@@ -29,13 +29,13 @@ redirect_from:
     * Utilized interactive learner to teach AI agents on how to solve algebra equations.
     * Conducted 15+ sessions and spearheaded data collection procedures to understand learning patterns.
     * Assisted in data wrangling and data labeling to improve its performance.
-<!-- <br/><br/>
+<br/><br/>
 * May 2022 - August 2022 (Summer Internship): Summer Intern
   * **HPCC Systems, LexisNexis Risk Solutions**
   * Duties included:
     * Discovered causal relations using Bayesian networks, conditionalization and drew causal models with 9+ variables.
     * Leveraged discretization technique to increased speed of probabilistic dependence tests by 10-fold.
-    * Analyzed behavior of the HPCC_Causality toolkit on synthetic and real-world datasets for causal discovery. -->
+    * Analyzed behavior of the HPCC_Causality toolkit on synthetic and real-world datasets for causal discovery.
 <hr/>
 
 # Skills
