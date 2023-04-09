@@ -36,6 +36,8 @@ redirect_from:
     * Discovered causal relations using Bayesian networks, conditionalization and drew causal models with 9+ variables.
     * Leveraged discretization technique to increased speed of probabilistic dependence tests by 10-fold.
     * Analyzed behavior of the HPCC_Causality toolkit on synthetic and real-world datasets for causal discovery.
+  * CAUSALITY PROJECT Summer 2022 <a href="https://arungaonkar.github.io/HPCC-Causality-Blog/" target="_blank">internship blog</a>.
+
 <hr/>
 
 # Skills

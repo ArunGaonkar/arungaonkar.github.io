@@ -22,7 +22,7 @@ My bachelor's degree from *PES University, Bangalore, India*, has given me a str
 
 <!-- I would like to bring real-world change by leveraging data, ML, and NLP to build and develop software applications. -->
 
-- You can find my <a href="https://arungaonkar.github.io/files/GaonkarArun_Resume.pdf" target="_blank">Resume</a> here.
+- You can find my <a href="https://arungaonkar.github.io/files/Resume_Arun_Gaonkar.pdf" target="_blank">Resume</a> here.
 - PS: I respond faster to emails than other messages.
 
 <!-- <hr/> -->
