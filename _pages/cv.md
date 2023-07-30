@@ -10,7 +10,7 @@ redirect_from:
 
 # Education
 
-* M.S. in Computer Science, North Carolina State University, 2023 (expected)
+* M.S. in Computer Science, North Carolina State University, 2023
 * B.Tech in Electronics and Communication Engineering, PES University, 2020
 <hr/>
 
