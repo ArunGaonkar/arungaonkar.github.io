@@ -14,16 +14,16 @@ Hi, I am Arun, a *Computer Science* graduate with a **Master's degree** from **N
 - I like Natural Language Processing.
 - I like Software Engineering.
 
-I would love to combine all three of these to solve real-world problems and building applications.
+I would love to combine all three of these to solve real-world problems and building applications. My interests lies in the application of ML & NLP techniques.
 
-My interests lies in the application of ML & NLP techniques. I am currently working as a **Research Assistant** at **North Carolina State University** and researching on applying NLP techniques to find the existing prejudices in Social Media. In another project, I am leading the data collection procedures and improving the performance of an AI agent for solving algebra equations. I have hands-on experience in causal relations analysis and have developed a toolkit for the same during my internship at LexisNexis Risk Solutions.
+During my master's at **North Carolina State University**, I worked as a **Research Assistant** researching on applying NLP techniques to find existing prejudices in Social Media. In another project, I lead the data collection procedures and improved the performance of an AI agent for solving algebra equations. During my internship at HPCC Systems - LexisNexis Risk Solutions, I gained hands-on experience in causal relations analysis and developed a toolkits.
 
 My bachelor's degree from *PES University, Bangalore, India*, has given me a strong foundation in computer science and mathematics. During this study I was intrigued by the replication of human brain with the neural network and then later I choose machine learning became my area of interest. I have worked on various projects in the field of machine learning.
 
 <!-- I would like to bring real-world change by leveraging data, ML, and NLP to build and develop software applications. -->
 
-- You can find my <a href="https://arungaonkar.github.io/files/Resume_Arun_Gaonkar.pdf" target="_blank">Resume</a> here.
-- PS: I respond faster to emails than other messages.
+<!-- - You can find my <a href="https://arungaonkar.github.io/files/Resume_Arun_Gaonkar.pdf" target="_blank">Resume</a> here. -->
+<!-- - PS: I respond faster to emails than other messages. -->
 
 <!-- <hr/> -->
 

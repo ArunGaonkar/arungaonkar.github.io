@@ -16,14 +16,14 @@ redirect_from:
 
 # Work Experience
 
-* January 2023 - Present: Research Assistant
+* January 2023 - May 2023: Research Assistant
   * **Social AI Lab, North Carolina State University**
   * Duties included:
     * Scraped around 26000 reddit posts from r/Asianparents pushshiftio API.
     * Labelling ~5000 sentences (belonging to -600 posts) for prejudice, type of prejudice and prejudice topic.
     * Planning to leverage multiple transformer-based models like RoBERTa, DistilBERT for identifying prejudiced sentences.
 <br/><br/>
-* September 2022 - Present: Research Assistant
+* September 2022 - May 2023 : Research Assistant
   * **IEC Lab, North Carolina State University**
   * Duties included:
     * Utilized interactive learner to teach AI agents on how to solve algebra equations.
