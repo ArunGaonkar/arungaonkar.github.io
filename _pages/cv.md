@@ -8,6 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
+Download PDF version of my <a href="https://arungaonkar.github.io/files/Resume_Arun_Gaonkar.pdf" target="_blank">Resume here</a>.
 # Education
 
 * M.S. in Computer Science, North Carolina State University, 2023
