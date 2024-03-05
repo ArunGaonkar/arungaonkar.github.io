@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Arun Gaonkar" # Your sidebar name
   avatar           : "clear_headshot.jpg" #profile.png
-  bio              : "Research Assistant at NC State University" #"Your biography for the left-hand sidebar"
-  location         : "Raleigh, NC, USA" #Location
+  bio              : "Software Engineer at LexisNexis Risk Solutions" #"Your biography for the left-hand sidebar"
+  location         : "Alpharetta, GA, USA" #Location
   employer         :
   pubmed           :
   googlescholar    :

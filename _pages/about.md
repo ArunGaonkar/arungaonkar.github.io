@@ -8,17 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Arun, a *Computer Science* graduate with a **Master's degree** from **North Carolina State University**. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact.
+Hi, I am Arun, a Software Engineer at LexisNexis Risk Solutions. I graduated with a **Master's degree** in *Computer Science* from **North Carolina State University**.
 
+<!-- Hi, I am Arun, a *Computer Science* graduate with a **Master's degree** from **North Carolina State University**. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact. -->
+
+- I like Software Development and Engineering.
 - I like Machine Learning.
 - I like Natural Language Processing.
-- I like Software Engineering.
 
-I would love to combine all three of these to solve real-world problems and building applications. My interests lies in the application of ML & NLP techniques.
+I would love to combine all three of these to solve real-world problems and building applications.
 
-During my master's at **North Carolina State University**, I worked as a **Research Assistant** researching on applying NLP techniques to find existing prejudices in Social Media. In another project, I lead the data collection procedures and improved the performance of an AI agent for solving algebra equations. During my internship at HPCC Systems - LexisNexis Risk Solutions, I gained hands-on experience in causal relations analysis and developed a toolkits.
+<!-- My interests lies in the application of ML & NLP techniques. -->
 
-My bachelor's degree from *PES University, Bangalore, India*, has given me a strong foundation in computer science and mathematics. During this study I was intrigued by the replication of human brain with the neural network and then later I choose machine learning became my area of interest. I have worked on various projects in the field of machine learning.
+<!-- During my master's at **North Carolina State University**, I worked as a **Research Assistant** researching on applying NLP techniques to find existing prejudices in Social Media. In another project, I lead the data collection procedures and improved the performance of an AI agent for solving algebra equations. During my internship at HPCC Systems - LexisNexis Risk Solutions, I gained hands-on experience in causal relations analysis and developed a toolkits. -->
+
+<!-- My bachelor's degree from *PES University, Bangalore, India*, has given me a strong foundation in computer science and mathematics. During this study I was intrigued by the replication of human brain with the neural network and then later I choose machine learning became my area of interest. I have worked on various projects in the field of machine learning. -->
 
 <!-- I would like to bring real-world change by leveraging data, ML, and NLP to build and develop software applications. -->
 
@@ -44,18 +48,16 @@ As part of the course, I have implemented sarcasm detection, first by creating a
 > Implemented some basic ML algorithms such as Linear and Logistic regression, RFC, and SVM. Understood the importance of data analysis and data visualization. As part of the course, completed a project on wildfire-cause prediction. ([CODE](https://github.com/ArunGaonkar/Wildfire-cause-prediction)) -->
 
 <!-- <hr/> -->
-<!-- 
 Organizations
 ---
 
 <p float="left">
 
-  <img align="center" src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-red-min.png" width="100"/> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://static3.mysiteserver.net/Images/PortCityJava/site/template/images/logo-lg.png" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://hpccsystems.com/wp-content/uploads/2022/10/HPCC_Logo_0.png" width="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://risk.lexisnexis.com/-/media/images/lnrs/logos/logo_lexis.png" width="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://hpccsystems.com/wp-content/uploads/2022/10/HPCC_Logo_0.png" width="100"/>
+  <img align="center" src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-red-min.png" width="100"/> 
+  <!-- <img align="center" src="https://static3.mysiteserver.net/Images/PortCityJava/site/template/images/logo-lg.png" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
   <img align="center" src="https://ieee-ras-pesu.github.io/website/assets/img/pesu-logo.png" width="100"/>
-</p>  -->
+</p>
+
+last updated: 2024-03-04

@@ -8,7 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-Download PDF version of my <a href="https://arungaonkar.github.io/files/Resume_Arun_Gaonkar.pdf" target="_blank">Resume here</a>.
 # Education
 
 * M.S. in Computer Science, North Carolina State University, 2023
@@ -96,3 +95,5 @@ Download PDF version of my <a href="https://arungaonkar.github.io/files/Resume_A
   * CITI Conflicts of Interest
   * CITI Responsible Conduct of Research
   * Group 2: Social-Behavioral-Educational Researchers - HSR Basic
+
+Download PDF version of my <a href="https://arungaonkar.github.io/files/Resume_Arun_Gaonkar.pdf" target="_blank">Resume here</a>.
