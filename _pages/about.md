@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Arun, a Software Engineer at LexisNexis Risk Solutions. I graduated with a **Master's degree** in *Computer Science* from **North Carolina State University**.
+Hi, I am Arun, a Software Engineer at **LexisNexis Risk Solutions**. I graduated with a **Master's degree** in *Computer Science* from **North Carolina State University**.
 
 <!-- Hi, I am Arun, a *Computer Science* graduate with a **Master's degree** from **North Carolina State University**. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact. -->
 
@@ -60,4 +60,4 @@ Organizations
   <img align="center" src="https://ieee-ras-pesu.github.io/website/assets/img/pesu-logo.png" width="100"/>
 </p>
 
-last updated: 2024-03-04
+last updated: 2024-Apr-16
