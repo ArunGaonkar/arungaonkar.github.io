@@ -10,7 +10,7 @@ redirect_from:
 
 ## 3. Genetic inheritance of Mental Characteristics.
 
-*(Date: 4/16/2024)
+*(Date: 4/16/2024)*
 
 Are mental charestiristics inherited? If I change my behavior, If I improve my determination, thinking skills,  If I improve my thought process, will it be passed on to the next generations?
 
