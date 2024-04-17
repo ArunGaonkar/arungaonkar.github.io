@@ -7,7 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# 2. Eduroam wifi at institutions is one of the best facility for students
+
+## 3. Genetic inheritance of Mental Characteristics.
+
+*(Date: 4/16/2024)
+
+Are mental charestiristics inherited? If I change my behavior, If I improve my determination, thinking skills,  If I improve my thought process, will it be passed on to the next generations?
+
+## 2. Eduroam wifi at institutions is one of the best facility for students.
 
 *(Date: 08/10/2023)*
 
@@ -17,7 +24,7 @@ Eduroam is a game-changer for students about how they want to use the internet. 
 
 I believe this is a great initiative and I hope it will be available in every institution around the world. I am glad that students and researchers can take full advantage of this facility at no cost.
 
-# 1.  Copying from one Google sheet to another google sheet
+## 1. Trouble in Copying from one Google sheet to another google sheet.
 
 *(Date: 05/14/2023)*
 
