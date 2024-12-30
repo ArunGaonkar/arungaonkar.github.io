@@ -3,7 +3,6 @@ title: "Blogs"
 permalink: /blogs/
 author_profile: false
 redirect_from:
-  - /resume
   - /about/
   - /about.html
 ---

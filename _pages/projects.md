@@ -3,8 +3,6 @@
 title: "Projects"
 permalink: /projects/
 author_profile: false
-redirect_from:
-  - /resume
 ---
 
 1. **Context-based Sarcasm Detection**  
