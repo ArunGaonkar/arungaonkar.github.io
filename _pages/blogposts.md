@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Here I post some of my thoughts/questions/ideas. I would love to hear your thoughts on them.
 
 ## 3. "What gets measured gets managed". Is the contrary true?
