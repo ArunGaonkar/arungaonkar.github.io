@@ -10,6 +10,8 @@ redirect_from:
 
 Hi, I am Arun, a Software Engineer at **LexisNexis Risk Solutions**. I graduated with a **Master's degree** in *Computer Science* from **North Carolina State University**.
 
+Shoot your answers/comments to my questions posted in the [Blogs](/blogs/) section.
+
 <!-- Hi, I am Arun, a *Computer Science* graduate with a **Master's degree** from **North Carolina State University**. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact. -->
 
 <!-- - I like Software Development and Engineering.

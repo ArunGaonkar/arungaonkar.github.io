@@ -16,10 +16,6 @@ redirect_from:
     * writing and testing code.
     * learning new things.
     * interacting with people.
-    <!-- * Designing and maintaining data infrastructure systems for insurance products, enhancing batch processing cycles to handle 10,000+ requests, contributing to reliability and performance improvements.
-    * Developmeing of a Proof of Concepts to optimize cloud storage and resource management.
-    * Implementing automation scripts to simulate customer traffic across 30+ products, ensuring service uptime and reliability within a complex cloud environment
-    * Creating LRE scripts to simulate production customer traffic for 30+ Insurance products and to ensure product and service uptime in Azure cloud. -->
 <br/><br/>
 * January 2023 - May 2023: Research Assistant
   * **Social AI Lab, North Carolina State University**

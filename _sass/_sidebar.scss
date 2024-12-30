@@ -84,7 +84,8 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0; // 50% for circle
+    object-fit: cover;
 
     @include breakpoint($large) {
       padding: 5px;

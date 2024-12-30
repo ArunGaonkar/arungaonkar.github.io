@@ -7,26 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Here I post some of my thoughts/questions/ideas. I would love to hear your thoughts on them.
 
-## 3. Genetic inheritance of Mental Characteristics.
+## 3. "What gets measured gets managed". Is the contrary true?
 
-*(Date: 4/16/2024)*
+"What gets  measured gets managed" is a famous quote by Peter Drucker. I agree with Peter and can give few examples like, time, performance, speed of a car, respone_time, etc. But is the contrary true? Is there something that we can manage effectively without measuring it?
+
+## 2. Genetic inheritance of Mental Characteristics?
+
+<!-- *(Date: 4/16/2024)* -->
 
 Are mental charestiristics inherited? If I change my behavior, If I improve my determination, thinking skills,  If I improve my thought process, will it be passed on to the next generations?
 
-## 2. Eduroam wifi at institutions is one of the best facility for students.
-
-*(Date: 08/10/2023)*
-
-Eduroam is a game-changer for students about how they want to use the internet. I came across Eduroam when I started doing my Master's at NCSU. It helped me to connect to the internet everywhere around the university and also helped me when I traveled to different universities.
-
-[Eduroam](https://eduroam.org) is a global wifi network that allows students to connect to the internet at any institution that has eduroam wifi. "Eduroam provides simple, easy, secure connectivity from thousands of hotspots across more than 100 countries." And another interesting fact about eduroam is that it provides the most secure encryption and authentication standards available. Eduroam supports over 5 million access authentications every day with over 500,000 international authentications daily.
-
-I believe this is a great initiative and I hope it will be available in every institution around the world. I am glad that students and researchers can take full advantage of this facility at no cost.
 
 ## 1. Trouble in Copying from one Google sheet to another google sheet.
 
-*(Date: 05/14/2023)*
+<!-- *(Date: 05/14/2023)* -->
 
 I am wondering why I cannot paste only values from one google sheet to another google sheet. I can paste the formualas (ctrl + v) works but (ctrl+ shift + v) does not work.
 
