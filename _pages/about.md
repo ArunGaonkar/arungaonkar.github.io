@@ -12,11 +12,11 @@ Hi, I am Arun, a Software Engineer at **LexisNexis Risk Solutions**. I graduated
 
 <!-- Hi, I am Arun, a *Computer Science* graduate with a **Master's degree** from **North Carolina State University**. My academic pursuits and internships have given me exposure to the latest advancements in Data Science and Machine Learning. I have a passion for applying these technologies to solve business problems, and I am excited about the opportunities to make a positive impact. -->
 
-- I like Software Development and Engineering.
+<!-- - I like Software Development and Engineering.
 - I like Machine Learning.
-- I like Natural Language Processing.
+- I like Natural Language Processing. -->
 
-I would love to combine all three of these to solve real-world problems and building applications.
+<!-- I would love to combine all three of these to solve real-world problems and building applications. -->
 
 <!-- My interests lies in the application of ML & NLP techniques. -->
 
@@ -48,16 +48,15 @@ As part of the course, I have implemented sarcasm detection, first by creating a
 > Implemented some basic ML algorithms such as Linear and Logistic regression, RFC, and SVM. Understood the importance of data analysis and data visualization. As part of the course, completed a project on wildfire-cause prediction. ([CODE](https://github.com/ArunGaonkar/Wildfire-cause-prediction)) -->
 
 <!-- <hr/> -->
-Organizations
+<!-- Organizations
 ---
-
 <p float="left">
 
   <img align="center" src="https://risk.lexisnexis.com/-/media/images/lnrs/logos/logo_lexis.png" width="100"/>
   <img align="center" src="https://hpccsystems.com/wp-content/uploads/2022/10/HPCC_Logo_0.png" width="100"/>
   <img align="center" src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-red-min.png" width="100"/> 
-  <!-- <img align="center" src="https://static3.mysiteserver.net/Images/PortCityJava/site/template/images/logo-lg.png" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  #<img align="center" src="https://static3.mysiteserver.net/Images/PortCityJava/site/template/images/logo-lg.png" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://ieee-ras-pesu.github.io/website/assets/img/pesu-logo.png" width="100"/>
-</p>
+</p> -->
 
-last updated: 2024-Apr-16
+<!-- last updated: 2024-Apr-16 -->

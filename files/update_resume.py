@@ -1,3 +1,9 @@
+"""
+Run this script to update the resume on the GitHub repository.
+This script copies the latest resume file to the local repository, 
+commits the changes, and pushes the changes to the remote repository.
+"""
+
 import os
 import shutil
 import subprocess

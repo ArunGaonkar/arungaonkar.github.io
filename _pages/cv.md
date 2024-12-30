@@ -8,14 +8,19 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
-
-* M.S. in Computer Science, North Carolina State University, 2023
-* B.Tech in Electronics and Communication Engineering, PES University, 2020
-<hr/>
-
 # Work Experience
 
+* August 2023 - Present: Software Engineer
+  * **LexisNexis Risk Solutions**
+  * Duties included:
+    * writing and testing code.
+    * learning new things.
+    * interacting with people.
+    <!-- * Designing and maintaining data infrastructure systems for insurance products, enhancing batch processing cycles to handle 10,000+ requests, contributing to reliability and performance improvements.
+    * Developmeing of a Proof of Concepts to optimize cloud storage and resource management.
+    * Implementing automation scripts to simulate customer traffic across 30+ products, ensuring service uptime and reliability within a complex cloud environment
+    * Creating LRE scripts to simulate production customer traffic for 30+ Insurance products and to ensure product and service uptime in Azure cloud. -->
+<br/><br/>
 * January 2023 - May 2023: Research Assistant
   * **Social AI Lab, North Carolina State University**
   * Duties included:
@@ -38,6 +43,12 @@ redirect_from:
     * Analyzed behavior of the HPCC_Causality toolkit on synthetic and real-world datasets for causal discovery.
   * CAUSALITY PROJECT Summer 2022 <a href="https://arungaonkar.github.io/HPCC-Causality-Blog/" target="_blank">internship blog</a>.
 
+<hr/>
+
+# Education
+
+* M.S. in Computer Science, North Carolina State University, 2023
+* B.Tech in Electronics and Communication Engineering, PES University, 2020
 <hr/>
 
 # Skills
@@ -88,6 +99,8 @@ redirect_from:
 
 # Extra-Curricular
 
+* Active member of Employee Resource Groups (Generation, Multi-cultural), contributing to collaborative and inclusive work culture.
+* Volunteer in various company-organized activities such as the Mayor’s walk, Blood camp.
 * **Awards**:
   * Prof. CNR Rao award for being a consistent top 10% performer in PES University
 
