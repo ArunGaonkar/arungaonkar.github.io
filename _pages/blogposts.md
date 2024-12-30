@@ -12,7 +12,7 @@ Here I post some of my thoughts/questions/ideas. I would love to hear your thoug
 
 ## 3. "What gets measured gets managed". Is the contrary true?
 
-"What gets  measured gets managed" is a famous quote by Peter Drucker. I agree with Peter and can give few examples like, time, performance, speed of a car, respone_time, etc. But is the contrary true? Is there something that we can manage effectively without measuring it?
+"What gets  measured gets managed" is a famous quote by Peter Drucker. I agree with Peter and can give few examples like time, performance, speed of a car, respone_time, etc. But is the contrary true? Is there something that we can manage effectively without measuring it?
 
 ## 2. Genetic inheritance of Mental Characteristics?
 
